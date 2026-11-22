@@ -1,9 +1,10 @@
 {
+  "id": "/gerak/",
   "name": "Gerak",
   "short_name": "Gerak",
   "description": "Pencatat jalan, lari, dan sepeda",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "/gerak/",
+  "scope": "/gerak/",
   "display": "standalone",
   "background_color": "#0b1220",
   "theme_color": "#0b1220",
